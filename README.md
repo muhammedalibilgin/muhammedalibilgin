@@ -1,7 +1,6 @@
-# Muhammed-Ali-Bilgin
+<h1 style="align:center">Hi, my name is Muhammed Ali Bilgin 👋</h1>
 ---
 
-<h1 style="align:center">Hi, my name is Muhammed Ali Bilgin 👋</h1>
 ### I’m a junior front-end developer, but I'm also interested in nodejs on the backend side.
 ### 🌱 I am currently learning more about Reactjs.
 * How to reach me: bilginmuhammedali@gmail.com
