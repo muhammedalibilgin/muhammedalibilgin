@@ -3,7 +3,7 @@
 ---
 
 ### 🚀  I’m a junior front-end developer, but I'm also interested in nodejs on the backend side🚀 
-### ⚛️  I am currently learning more about Reactjs⚛️ 
+### ⚛️  I am currently learning more about MERN Stack ⚛️
 * How to reach me: bilginmuhammedali@gmail.com 📨
 * I like decoding kata in Codewars [CodeWars Link](https://www.codewars.com/users/malibil) 🥷
 * [My Stackoverflow Profile](https://stackoverflow.com/users/14885612/malibil)
