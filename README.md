@@ -2,9 +2,9 @@
 
 ---
 
-### 🚀  I’m a frontEnd developer, but I'm also interested in nodejs and nextjs on the backend side 🚀 
-### 👉  I am currently working with Html, Css, Bootstrap, TailwindCss, Js, Jquery, Reactjs, Nextjs, Php
-* How to reach me: bilginmuhammedali@gmail.com 📨
+### 🚀  I’m a web developer 🚀 
+### 👉  I am currently working with Html, Css, Bootstrap, TailwindCss, Js, Jquery, Reactjs, Nextjs, AngularJs, Php
+* How to reach me: bilginmuhammedali@gmail.com 📨 || bilginmuhammedali@icloud.com 📨
 * I like decoding kata in Codewars [CodeWars Link](https://www.codewars.com/users/malibil) 🥷
 * [My Stackoverflow Profile](https://stackoverflow.com/users/14885612/malibil)
 
