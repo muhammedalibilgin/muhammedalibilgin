@@ -81,6 +81,18 @@
   <img src="https://img.shields.io/badge/Redis-000000?style=flat&logo=redis" />
 </p>
 
+### 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/Heroku-000000?style=flat&logo=heroku" />
+  <img src="https://img.shields.io/badge/Dokploy-000000?style=flat&logo=docker" /> <br/>
+
+  <img src="https://img.shields.io/badge/VSCode-000000?style=flat&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Jira-000000?style=flat&logo=jira" />
+  <img src="https://img.shields.io/badge/Shopify--CLI-000000?style=flat&logo=shopify" />
+</p>
 ---
 ---
 
