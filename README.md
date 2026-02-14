@@ -28,11 +28,11 @@
 
 <p align="center">
   <img
-    src="https://YOUR_DEPLOY_URL/api?username=USERNAME&show_icons=true&hide_border=true&theme=default"
+    src="https://YOUR_DEPLOY_URL/api?username=muhammedalibilgin&show_icons=true&hide_border=true&theme=default"
     height="165"
   />
   <img
-    src="https://YOUR_DEPLOY_URL/api/top-langs?username=USERNAME&layout=compact&hide_border=true&theme=default"
+    src="https://YOUR_DEPLOY_URL/api/top-langs?username=muhammedalibilgin&layout=compact&hide_border=true&theme=default"
     height="165"
   />
 </p>
@@ -42,7 +42,7 @@
 ### 🔥 Streak Stats
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true"
+    src="https://streak-stats.demolab.com?user=muhammedalibilgin&hide_border=true"
   />
 </p>
 
@@ -58,8 +58,6 @@
 
 ---
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=muhammedalibilgin)
 
 ---
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maliblgn/)
