@@ -16,6 +16,12 @@
 ---
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+
+
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=muhammedalibilgin)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ---
 ### 📊 GitHub Stats
