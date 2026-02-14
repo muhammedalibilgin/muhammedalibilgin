@@ -10,8 +10,8 @@
 
 
 ### Some of My Github Stats📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedalibilgin&layout=compact&count_private=true&theme=algolia&bg_color=45,0f0c29,904e95&title_color=fff) <br/>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedalibilgin&include_all_commits=true&show_icons=true&theme=algolia&bg_color=45,0f0c29,904e95&title_color=fff) <br/>
+![Top Langs](https://githubreadmestatsredeploy-githubreadmest-a4cea4-165-232-66-51.traefik.me/api/top-langs/?username=muhammedalibilgin&layout=compact&count_private=true&theme=algolia&bg_color=45,0f0c29,904e95&title_color=fff) <br/>
+![My GitHub stats]([http://github-readme-stats.vercel.app](https://githubreadmestatsredeploy-githubreadmest-a4cea4-165-232-66-51.traefik.me)/api?username=muhammedalibilgin&include_all_commits=true&show_icons=true&theme=algolia&bg_color=45,0f0c29,904e95&title_color=fff) <br/>
 
 ---
 ---
