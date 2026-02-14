@@ -53,7 +53,32 @@
   <img src="https://img.shields.io/badge/HTML-000000?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=flat&logo=angular" />
+  <img src="https://img.shields.io/badge/Liquid-000000?style=flat&logo=shopify" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/React.js-000000?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/AngularJS-000000?style=flat&logo=angular" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Material--UI-000000?style=flat&logo=mui" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/PHP-000000?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/OOP-000000?style=flat" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=flat&logo=redis" />
 </p>
 
 ---
